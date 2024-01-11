@@ -8,5 +8,11 @@
     "percentToQualify": "30",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": Yucky",
+            "link": "https://youtu.be/LuC47WcJIgk?si=kvUwCSedi8ZShsg8",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
