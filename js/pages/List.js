@@ -99,30 +99,20 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
-                    <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
-                    </p>
-                    <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
+                    <p> When submitting a record, please ensure that you have the following:</p>
+                    <p> - A complete playthrough of the level from 0-100 with no cuts (if you make cuts in your submitted video, include raw footage that doesn't have them) </p>
+                    <p> - A decent amount of previous attempts (A single death at 1% is not sufficient, try to get somewhat far into the level. Everplay records are exempt from this.) </p>
+                    <p> - End stats (The whole box must appear for at least one frame) </p>
+                    <p> - Cheat Indicator (If you are using a mod menu that supports one, like Megahack v7) </p>
+                    <p> - Fps/tps indicator (For mod menus that support one) </p>
+                    <p> - In-game source audio/Clicks (Either is fine, however both are strongly recommended. If you don't have either in your submission video, attach raw footage that does) </p>
+                    <p> Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit#gid=0" style="text-decoration: underline;">this sheet</a> for a complete list of allowed mods.</p>
+                    <p> Please also check for the following:</p>
+                    <p> - Make sure you beat the level displayed on the site (for reference, check the level ID to ensure you're playing the correct level</p>
+                    <p> - Do not use secret routes or bug routes</p>
+                    <p> - Do not use easy modes, only a record of the unmodified level qualifies</p>
+                    <p> - Make sure you are playing on 2.2 or above</p>
+                    <p> - Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level</p>
                 </div>
             </div>
         </main>
