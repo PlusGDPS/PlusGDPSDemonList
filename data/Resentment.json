@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "mobile": true,
     "records": [
+        {
+            "user": "MeDoesGames",
+            "link": "https://youtu.be/lUNNw6c2nw4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
