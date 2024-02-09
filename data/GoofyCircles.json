@@ -8,5 +8,11 @@
     "percentToQualify": "80",
     "password": "No Copy",
     "records": [
+        {
+            "user": "black screen",
+            "link": "https://www.youtube.com/watch?v=Jh5GimWJt-M",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
