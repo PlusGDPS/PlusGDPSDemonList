@@ -1,19 +1,12 @@
 {
-    "id": 1360,
+    "id": 1205,
     "name": "Resentment",
-    "author": "ToxicFusion64",
-    "creators": ["ToxicFusion64", "Wurei"],
-    "verifier": "Wurei",
-    "verification": "https://youtu.be/mOL7QSKRrVM?si=C0KNVrP-H2H4Cxg4",
-    "percentToQualify": "60",
+    "author": "MetalBladeX",
+    "creators": [],
+    "verifier": "Kyy",
+    "verification": "https://www.youtube.com/watch?v=UfKQid2dmcc",
+    "percentToQualify": "100",
     "password": "Free To Copy",
-    "mobile": true,
     "records": [
-        {
-            "user": "MeDoesGames",
-            "link": "https://youtu.be/lUNNw6c2nw4?si=owqx1Me9hG9c4apY&t=93",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
