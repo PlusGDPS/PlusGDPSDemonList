@@ -1,0 +1,18 @@
+{
+    "id": 2884,
+    "name": "Ten v3",
+    "author": "Avto",
+    "creators": [],
+    "verifier": "MaybeSplash",
+    "verification": "https://youtu.be/7BWXXZegJd8?si=CAiJ6V0Q0hGT8CKB",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kyy",
+            "link": "https://www.youtube.com/watch?v=R9umteIk_0Y",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
