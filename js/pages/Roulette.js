@@ -20,7 +20,7 @@ export default {
                         <input type="checkbox" id="main" value="Main List" v-model="useMainList">
                         <label for="main">Main List</label>
                     </div>
-                    <div class="check" :class="{ 'checked': useExtendedList }>
+                    <div class="check" :class="{ 'checked': useExtendedList }">
                         <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
                         <label for="extended">Extended List</label>
                     </div>
