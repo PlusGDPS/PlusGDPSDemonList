@@ -50,7 +50,7 @@
     grid-auto-rows: max-content;
     border-radius: 0.5rem;
     overflow: hidden;
-    background-color: var(--color-background-hover);
+    background-color: #202225;
 }
 .page-roulette .levels .level .video img {
     width: 100%;
