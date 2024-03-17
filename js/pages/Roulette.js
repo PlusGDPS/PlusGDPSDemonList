@@ -16,11 +16,11 @@ export default {
                     Shameless copy of the Extreme Demon Roulette by <a href="https://matcool.github.io/extreme-demon-roulette/" target="_blank">matcool</a>.
                 </p>
                 <form class="options">
-                    <div class="check">
+                    <div class="check" :class="{ 'checked': useMainList }">
                         <input type="checkbox" id="main" value="Main List" v-model="useMainList">
                         <label for="main">Main List</label>
                     </div>
-                    <div class="check">
+                    <div class="check" :class="{ 'checked': useExtendedList }>
                         <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
                         <label for="extended">Extended List</label>
                     </div>
