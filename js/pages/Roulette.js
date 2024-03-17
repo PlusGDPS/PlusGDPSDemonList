@@ -63,8 +63,8 @@ export default {
                             </div>
                             <form class="actions" v-if="!givenUp">
                                 <input type="number" v-model="percentage" :placeholder="placeholder" :min="currentPercentage + 1" max=100>
-                                <Btn @click.native.prevent="onDone" style="background-color: #202225>Done</Btn>
-                                <Btn @click.native.prevent="onGiveUp" style="background-color: #FF0004">Give Up</Btn>
+                                <Btn @click.native.prevent="onDone">Done</Btn>
+                                <Btn @click.native.prevent="onGiveUp" style="background-color: #FF0004;">Give Up</Btn>
                             </form>
                         </div>
                         <!-- Results -->
