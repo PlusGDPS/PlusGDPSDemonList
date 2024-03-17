@@ -94,9 +94,3 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
-
-.check.checked input[type="checkbox"] {
-    color: #202225;
-    background-color: #202225;
-    border-color: #202225;
-}
