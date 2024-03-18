@@ -8,5 +8,11 @@
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "multiplegamesman",
+            "link": "https://youtu.be/mQN8ZJOpH2U?si=Qs50c_SmyuTPOdzo&t=548",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
