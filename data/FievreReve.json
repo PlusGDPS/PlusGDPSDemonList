@@ -8,5 +8,11 @@
     "percentToQualify": "80",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=SQZox6d6pdE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
