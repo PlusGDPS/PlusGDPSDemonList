@@ -104,8 +104,9 @@ export default {
                     <p> - A decent amount of previous attempts (A single death at 1% is not sufficient, try to get somewhat far into the level. Everplay records are exempt from this.) </p>
                     <p> - End stats (The whole box must appear for at least one frame) </p>
                     <p> - Cheat Indicator (If you are using a mod menu that supports one, like Megahack v7) </p>
-                    <p> - Fps indicator (For mod menus that support one) </p>
-                    <p> - In-game source audio/Clicks (Either is fine, however both are strongly recommended. If you don't have either in your submission video, attach raw footage that does) </p>
+                    <p> - FPS and TPS indicator </p>
+                    <p> - CPS Counter </p>
+                    <p> - Click sounds </p>
                     <p> Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit#gid=0" style="text-decoration: underline;">this sheet</a> for a complete list of allowed mods.</p>
                     <p> Please also check for the following:</p>
                     <p> - Make sure you beat the level displayed on the site (for reference, check the level ID to ensure you're playing the correct level</p>
@@ -113,6 +114,7 @@ export default {
                     <p> - Do not use easy modes, only a record of the unmodified level qualifies</p>
                     <p> - Make sure you are playing on 2.2 or above</p>
                     <p> - Make sure the level you are playing is not a platformer level</p>
+                    <p> - Make sure the level you are playing is not a reuploaded level</p>
                     <p> - Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level</p>
                 </div>
             </div>
