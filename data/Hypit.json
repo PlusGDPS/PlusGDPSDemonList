@@ -8,5 +8,11 @@
     "percentToQualify": "68",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "flo.wer",
+            "link": "https://www.youtube.com/watch?v=3aArhTZH7M0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
