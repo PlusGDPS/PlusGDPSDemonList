@@ -5,15 +5,9 @@
     "creators": [],
     "verifier": "Kyy",
     "verification": "https://www.youtube.com/watch?v=Sbu8__095zg",
-    "percentToQualify": 32,
+    "percentToQualify": 54,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "liam",
-            "link": "https://youtu.be/8ZuJMNqwfjI",
-            "percent": 13,
-            "hz": 240
-        },
         {
             "user": "Slopes",
             "link": "https://youtu.be/eR8aIOUuBWw",
