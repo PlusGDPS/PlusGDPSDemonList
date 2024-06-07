@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=dbZesldAHIk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ABQ",
+            "link": "https://youtu.be/zBPD-g2wHZ8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
