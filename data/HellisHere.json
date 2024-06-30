@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=YQw2E1UGI8E",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "fizzy",
+            "link": "https://www.youtube.com/watch?v=zQuIkLilZq0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=iwMeKhfo7FI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
