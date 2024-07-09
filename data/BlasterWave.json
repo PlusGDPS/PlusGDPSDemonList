@@ -8,6 +8,12 @@
     "percentToQualify": 54,
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "GreenCat",
+            "link": "https://youtu.be/YfAXdVSAf28?si=WPRcJ42tJ1kBh4bi",
+            "percent": 88,
+            "hz": 240
+        },
         {
             "user": "Slopes",
             "link": "https://www.youtube.com/watch?v=cMVBhtNNWGc",
