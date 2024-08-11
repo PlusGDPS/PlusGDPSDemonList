@@ -37,6 +37,18 @@
             "link": "https://youtu.be/HjDbQQR4tuo?si=VCwH4mJhncVBLYLY",
             "percent": 100,
             "hz": 240
+        },
+        {    
+            "user": "c1xa",
+            "link": "https://www.youtube.com/watch?v=oV1Sl9B6kfE",
+            "percent": 100,
+            "hz": 240
+        },
+        {    
+            "user": "Pluto",
+            "link": "https://youtu.be/MGKXBXmm04k",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
