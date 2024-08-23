@@ -8,5 +8,11 @@
     "percentToQualify": "47",
     "password": "Free To Copy",
     "records": [
+        {    
+            "user": "Pluto",
+            "link": "https://www.youtube.com/watch?v=-AVOE04zFow",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
