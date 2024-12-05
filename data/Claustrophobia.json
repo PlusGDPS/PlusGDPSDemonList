@@ -1,18 +1,11 @@
 {
     "id": 7621,
     "name": "Claustrophobia",
-    "author": "maddy",
+    "author": "Avto",
     "creators": ["Avto", "Vexon"],
-    "verifier": "maddy",
-    "verification": "https://www.youtube.com/watch?v=40NWfeXmUO0",
+    "verifier": "nixen",
+    "verification": "https://www.youtube.com/watch?v=4P5ayGJEw7s&lc=UgxfrOYx1lUZ7QPFzKt4AaABAg",
     "percentToQualify": "46",
     "password": "Free To Copy",
-    "records": [
-        {
-            "user": "nixen",
-            "link": "https://youtu.be/4P5ayGJEw7s",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+    "records": [ ]
 }
