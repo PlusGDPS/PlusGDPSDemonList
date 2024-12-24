@@ -1,2 +1,11 @@
-[
+[    {
+        "role": "owner",
+        "name": "Boofer"
+        "link": "https://www.youtube.com/@Boofer."
+    },
+    {
+        "role": "admin",
+        "name": "Splash",
+        "link": "https://www.youtube.com/@MaybeSplash"
+    }
 ]
