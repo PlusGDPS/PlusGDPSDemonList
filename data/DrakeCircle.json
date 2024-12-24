@@ -1,8 +1,8 @@
 {
     "id": 5450,
     "name": "Drake Circle",
-    "author": "Drake",
-    "creators": [],
+    "author": "Boofer",
+    "creators": ["Boofer"],
     "verifier": "fizzy",
     "verification": "https://youtu.be/AB8TOBkF2rs?si=xgMSCgCuUIE86OMA",
     "percentToQualify": "100",
