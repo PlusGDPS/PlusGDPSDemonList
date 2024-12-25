@@ -3,8 +3,8 @@
     "name": "Disfoor Zyntrax",
     "author": "Vexon",
     "creators": [],
-    "verifier": "Vexon",
-    "verification": "https://youtu.be/-ElV5Rwvlhk",
+    "verifier": "Phantom",
+    "verification": "https://youtu.be/qdWMUjSROho",
     "percentToQualify": "40",
     "password": "999999",
     "records": [
@@ -12,12 +12,6 @@
             "user": "Astaroth",
             "link": "https://youtu.be/XSlGjsaSxM4?si=rDPxT4XFyhJ9qbhC",
             "percent": 41,
-            "hz": 240
-        },
-        {
-            "user": "Phantom",
-            "link": "https://youtu.be/qdWMUjSROho",
-            "percent": 100,
             "hz": 240
         },
         {
