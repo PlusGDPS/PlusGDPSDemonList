@@ -3,17 +3,11 @@
     "name": "Zybat",
     "author": "Vexon",
     "creators": [],
-    "verifier": "Vexon",
-    "verification": "https://youtu.be/FCxs8w3-B-0",
+    "verifier": "Phantom",
+    "verification": "https://youtu.be/4RPvsqzvGJM",
     "percentToQualify": "40",
     "password": "969696",
     "records": [
-        {
-            "user": "Phantom",
-            "link": "https://youtu.be/4RPvsqzvGJM",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "Slopes",
             "link": "https://youtu.be/fCbYMTfWmDE",
