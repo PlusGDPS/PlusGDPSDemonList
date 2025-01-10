@@ -112,6 +112,7 @@ export default {
                     <p> - Make sure you beat the level displayed on the site (for reference, check the level ID to ensure you're playing the correct level</p>
                     <p> - Do not use secret routes or bug routes</p>
                     <p> - Do not use easy modes, only a record of the unmodified level qualifies</p>
+                    <p> - Do not use Noclip Accuracy when you're beating a level</p>
                     <p> - Make sure you are playing on 2.2 or above</p>
                     <p> - Make sure the level you are playing is not a platformer level</p>
                     <p> - Make sure the level you are playing is not a reuploaded level</p>
