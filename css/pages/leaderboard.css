@@ -39,6 +39,43 @@
     padding-block: 1rem;
     text-align: end;
 }
+
+.page-leaderboard .board .rank-1 .user button {
+    color: gold;
+}
+.page-leaderboard .board .rank-1 .user button:hover {
+    color: white;
+    background-color: goldenrod;
+}
+.page-leaderboard .board .rank-1 .user.active button {
+    color: white;
+    background-color: goldenrod;
+}
+
+.page-leaderboard .board .rank-2 .user button {
+    color: gray;
+}
+.page-leaderboard .board .rank-2 .user button:hover {
+    color: white;
+    background-color: gray;
+}
+.page-leaderboard .board .rank-2 .user.active button {
+    color: white;
+    background-color: gray;
+}
+
+.page-leaderboard .board .rank-3 .user button {
+    color: chocolate;
+}
+.page-leaderboard .board .rank-3 .user button:hover {
+    color: white;
+    background-color: chocolate;
+}
+.page-leaderboard .board .rank-3 .user.active button {
+    color: white;
+    background-color: chocolate;
+}
+
 .page-leaderboard .board .total {
     padding: 1rem;
     text-align: end;
