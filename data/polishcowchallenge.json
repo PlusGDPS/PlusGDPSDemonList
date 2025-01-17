@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Avto",
+            "link": "https://youtu.be/iHDPT2eAKq0?si=xzakyA4c-fiJW8Lu",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
