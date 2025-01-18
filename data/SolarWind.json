@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=yrNykUBrF_U",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
