@@ -1,0 +1,42 @@
+{
+    "id": 2097,
+    "name": "KanyeHouse",
+    "author": "Microfun",
+    "creators": [],
+    "verifier": "Boofer",
+    "verification": "https://youtu.be/c8rpt20gkdE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Avto",
+            "link": "https://www.youtube.com/watch?v=WghPDMa9f1U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=BYCVM7VXDqU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dact",
+            "link": "https://youtu.be/qWfCB1f_xFY?si=Q_LXmLesnsRJggI3",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ash",
+            "link": "https://www.youtube.com/watch?v=e0aFY89SPXQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kyy",
+            "link": "https://youtu.be/wwMs8a6xCp8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "785",
+    "name": "Ten",
+    "author": "Avto",
+    "creators": [],
+    "verifier": "Avto",
+    "verification": "https://www.youtube.com/watch?v=R-Zd9aS7Lhs",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ash",
+            "link": "https://www.youtube.com/watch?v=e0aFY89SPXQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dact",
+            "link": "https://www.youtube.com/watch?v=oxSEzLhUoBE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

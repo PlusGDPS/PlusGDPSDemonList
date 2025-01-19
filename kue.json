@@ -1,0 +1,18 @@
+{
+    "id": "14",
+    "name": "kue",
+    "author": "vexon",
+    "creators": ["vexon"],
+    "verifier": "Avto",
+    "verification": "https://youtu.be/h2ow69C7IKY?si=aG2aBGuH_97VQqpu",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=UkykKZmANEs",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

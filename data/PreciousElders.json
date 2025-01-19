@@ -1,0 +1,36 @@
+{
+    "id": "5549",
+    "name": "Precious Elders",
+    "author": "Poxpat",
+    "creators": [],
+    "verifier": "Avto",
+    "verification": "https://www.youtube.com/watch?v=ED_7hBlXmBI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=dg603zfiNmw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ash",
+            "link": "https://www.youtube.com/watch?v=e0aFY89SPXQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kyy",
+            "link": "https://youtu.be/leg_QZWg-zc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Fizzy",
+            "link": "https://www.youtube.com/shorts/z3UVsq9fMes",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

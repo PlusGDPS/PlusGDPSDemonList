@@ -1,0 +1,36 @@
+{
+    "id": 5019,
+    "name": "MoonWave",
+    "author": "JAGamer",
+    "creators": [],
+    "verifier": "Boofer",
+    "verification": "https://youtu.be/kPp-5_ZU9wQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Avto",
+            "link": "https://youtu.be/CfNAb3Y_eJU?si=hlHxvvW4EZZ-RWPR",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=PJVSG9VFw9o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ash",
+            "link": "https://www.youtube.com/watch?v=e0aFY89SPXQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kyy",
+            "link": "https://www.youtube.com/watch?v=6BvKRv-dzgQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

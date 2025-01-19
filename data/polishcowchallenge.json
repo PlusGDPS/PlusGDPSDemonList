@@ -1,0 +1,24 @@
+{
+    "id": 7018,
+    "name": "Polish Cow Challenge",
+    "author": "GooseGoose",
+    "creators": [],
+    "verifier": "Boofer",
+    "verification": "https://youtu.be/E5NlSFwNA4I",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Avto",
+            "link": "https://youtu.be/iHDPT2eAKq0?si=xzakyA4c-fiJW8Lu",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=M_UvyEpYIIE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

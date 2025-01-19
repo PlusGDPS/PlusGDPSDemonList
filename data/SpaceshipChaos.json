@@ -1,0 +1,18 @@
+{
+    "id": 768,
+    "name": "Spaceship Chaos",
+    "author": "Avto",
+    "creators": [],
+    "verifier": "Avto",
+    "verification": "https://youtu.be/UcIpfdrguMc?si=xfikbJ4-fvuFW81X",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=Tcb1lQ6Xy24",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

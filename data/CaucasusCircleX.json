@@ -1,0 +1,24 @@
+{
+    "id": 3255,
+    "name": "Caucasus CircleX",
+    "author": "Therealblazer",
+    "creators": [],
+    "verifier": "Avto",
+    "verification": "https://youtu.be/yhgU4k1nT7M?si=BA9fstefQH4UfYQW",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=bc9RYBnMl9k",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ash",
+            "link": "https://www.youtube.com/watch?v=e0aFY89SPXQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

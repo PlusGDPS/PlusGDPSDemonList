@@ -1,0 +1,30 @@
+{
+    "id": "3911",
+    "name": "Hell circles",
+    "author": "TheRealBlazerGD",
+    "creators": ["TheRealBlazerGD"],
+    "verifier": "Avto",
+    "verification": "https://youtu.be/SCxa9HVS9ps?si=-tQ5Ztrvtde-3jo9",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "Boofer",
+            "link": "https://youtu.be/x7RB4TUJD0s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=72A3_kNVBFI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ash",
+            "link": "https://www.youtube.com/watch?v=e0aFY89SPXQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

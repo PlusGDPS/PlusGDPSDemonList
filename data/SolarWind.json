@@ -1,0 +1,24 @@
+{
+    "id": "6957",
+    "name": "Solar wind",
+    "author": "TheRealBlazerGD",
+    "creators": [],
+    "verifier": "Avto",
+    "verification": "https://www.youtube.com/watch?v=3L0OZpoXYHE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sas4",
+            "link": "https://www.youtube.com/watch?v=yrNykUBrF_U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ash",
+            "link": "https://www.youtube.com/watch?v=e0aFY89SPXQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
