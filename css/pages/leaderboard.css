@@ -48,20 +48,20 @@
     background-color: goldenrod;
 }
 .page-leaderboard .board .rank-1 .user.active button {
-    color: white;
-    background-color: goldenrod;
+    color: gold;
+    background-color: var(--color-primary);
 }
 
 .page-leaderboard .board .rank-2 .user button {
-    color: gray;
+    color: silver;
 }
 .page-leaderboard .board .rank-2 .user button:hover {
-    color: white;
-    background-color: gray;
+    color: var(--color-primary);
+    background-color: silver;
 }
 .page-leaderboard .board .rank-2 .user.active button {
-    color: white;
-    background-color: gray;
+    color: silver;
+    background-color: var(--color-primary);
 }
 
 .page-leaderboard .board .rank-3 .user button {
@@ -72,8 +72,8 @@
     background-color: chocolate;
 }
 .page-leaderboard .board .rank-3 .user.active button {
-    color: white;
-    background-color: chocolate;
+    color: chocolate;
+    background-color: var(--color-primary);
 }
 
 .page-leaderboard .board .total {
