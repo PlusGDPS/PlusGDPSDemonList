@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/shorts/z3UVsq9fMes",
             "percent": 100,
             "hz": 360
+        }.
+        {
+            "user": "Dact",
+            "link": "https://www.youtube.com/watch?v=XBTafsc1irU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
