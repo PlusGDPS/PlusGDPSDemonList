@@ -11,13 +11,13 @@
     },
     {
         "role": "admin",
-        "name": "CF",
-        "link": "https://www.youtube.com/@CF_FAKE"
-    },
-    {
-        "role": "admin",
         "name": "Fizzy",
         "link": "https://www.youtube.com/@frizbeey"
+    },
+    {
+        "role": "helper",
+        "name": "CF",
+        "link": "https://www.youtube.com/@CF_FAKE"
     },
     {
         "role": "helper",
