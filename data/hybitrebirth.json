@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Fizzy",
+            "link": "https://www.youtube.com/watch?v=EPX5HB2cTtI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
