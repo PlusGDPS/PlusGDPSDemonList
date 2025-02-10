@@ -8,11 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-    ]
     {
             "user": "Toasty",
             "link": "https://www.youtube.com/watch?v=SggTwjMEKHk",
             "percent": 100,
             "hz": 360
         }
+     ]
 }
