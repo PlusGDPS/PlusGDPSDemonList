@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=yFgzkrouiRU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "fizzy",
+            "link": "https://www.youtube.com/watch?v=2e9eNyulLBA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
