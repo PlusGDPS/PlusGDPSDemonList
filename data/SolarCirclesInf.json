@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=sWJ0petxAV4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "toasty",
+            "link": "https://www.youtube.com/watch?v=xFCEwhwxabM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
