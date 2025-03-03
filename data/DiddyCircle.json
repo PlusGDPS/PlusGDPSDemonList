@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=5pwcLVafjrg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Kuma",
+            "link": "https://youtu.be/tvuPMQuzQPo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
