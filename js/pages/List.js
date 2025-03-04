@@ -109,8 +109,6 @@ export default {
                     <p> - FPS and TPS indicator </p>
                     <p> - CPS Counter </p>
                     <p> - Click sounds </p>
-                    <p> - Raw footage is mandatory for top 10 completions/verifications <p>
-                    <p> - When submitting a verifcation make sure its rated medium demon or above <p>
                     <p> Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit#gid=0" style="text-decoration: underline;">this sheet</a> for a complete list of allowed mods.</p>
                     <p> Please also check for the following:</p>
                     <p> - Make sure you beat the level displayed on the site (for reference, check the level ID to ensure you're playing the correct level</p>
@@ -121,6 +119,8 @@ export default {
                     <p> - Make sure the level you are playing is not a platformer level</p>
                     <p> - Make sure the level you are playing is not a reuploaded level</p>
                     <p> - Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level</p>
+                    <p> - Raw footage is mandatory for top 10 completions/verifications <p>
+                    <p> - When submitting a verifcation make sure its rated medium demon or above <p>
                 </div>
             </div>
         </main>
