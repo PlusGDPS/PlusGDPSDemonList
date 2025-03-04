@@ -102,7 +102,7 @@ export default {
                     </template>
                     <h3>Submission Requirements/Rules</h3>
                     <p><h5>
-                    <a href="https://docs.google.com/document/d/1PsjbuMw_DU46c2KzaTnrNYqXMqYstzAzoMuBZSwSoeQ/edit?usp=sharing " target="_blank">Click this for rules</a>
+                    <a href="https://docs.google.com/document/d/1PsjbuMw_DU46c2KzaTnrNYqXMqYstzAzoMuBZSwSoeQ/edit?usp=sharing" target="_blank">Click this for rules</a>
                     </h5><p>
                 </div>
             </div>
