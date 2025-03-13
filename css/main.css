@@ -22,6 +22,12 @@ header.dark {
     --color-on-error: white;
 }
 
+/* for firefox */
+html {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
 html,
 body {
     height: 100%;
@@ -31,6 +37,13 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    background-color: var(--color-background);
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+    display: none;
 }
 
 header,
@@ -46,11 +59,16 @@ main {
 }
 
 header {
+    position: absolute;
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
+    margin: 1rem 2rem;
+    border-radius: 12px;
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.4);
+    width: calc(100% - 4rem);
 }
 @media screen and (min-width: 1366px) {
     header {
