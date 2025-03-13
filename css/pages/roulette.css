@@ -2,18 +2,27 @@
     margin-top: 6rem;
 }
 
+/* thats not a sidebar anymore */
 .page-roulette .sidebar {
     padding: 2rem;
     display: flex;
     flex-direction: column;
     gap: 2rem;
     align-items: flex-start;
+    margin: 2rem;
+    background-color: var(--color-primary);
+    border-radius: 12px;
+    box-shadow: 50px 50px 50px -12px rgb(0 0 0 / 0.4);
 }
 .page-roulette .sidebar a {
     text-decoration: underline;
 }
 .page-roulette .sidebar a:hover {
     color: var(--color-on-background);
+}
+
+.page-roulette .sidebar .btn {
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 1);
 }
 
 .page-roulette .sidebar .check {
