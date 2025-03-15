@@ -14,7 +14,6 @@ export async function fetchList() {
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
                     const level = await levelResult.json();
-                    console.log(level);
                     return [
                         {
                             ...level,
