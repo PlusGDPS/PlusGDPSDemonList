@@ -47,19 +47,8 @@ export async function fetchEditors() {
     }
 }
 
-export async function fetchMapPacks() {
-    try {
-        const mapPackResults = await fetch(`${dir}/_mapPacks.json`);
-        const mapPacks = await mapPackResults.json();
-        return mapPacks;
-    } catch {
-        return null;
-    }
-}
-
 export async function fetchLeaderboard() {
     const list = await fetchList();
-    const mapPacks = await fetchMapPacks();
 
     const scoreMap = {};
     const errs = [];
@@ -67,15 +56,6 @@ export async function fetchLeaderboard() {
         if (err) {
             errs.push(err);
             return;
-        }
-        // level map pack value
-        const mapPack = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === level.mapPack.toLowerCase(),
-        ) || level.mapPack;
-
-        // pretty map pack name
-        if (mapPack == []) {
-            
         }
 
         // Verification
