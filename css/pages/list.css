@@ -65,7 +65,7 @@
 }
 .page-list .list .rank3 .level.active button {
     color: chocolate;
-    background-color: var(--color-primary);
+    background-color: var(--color-background);
 }
 
 .page-list .list .level button {
