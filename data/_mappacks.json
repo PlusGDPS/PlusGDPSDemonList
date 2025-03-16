@@ -1,0 +1,10 @@
+{
+    "TenMapPack": {
+        "prettyName": "Ten Map Pack",
+        "color": "#00796B"
+    },
+    "SolarMapPack": {
+        "prettyName": "Solar Map Pack",
+        "color": "#FFFF00"
+    }
+}

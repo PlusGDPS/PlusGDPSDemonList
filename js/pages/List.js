@@ -56,6 +56,14 @@ export default {
                             <div class="type-title-sm">Password</div>
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
+                        <li v-if="level.mapPackPrettyName" :style="{ 
+                            backgroundColor: level.mapPackColor,
+                            borderRadius: '4px',
+                            padding: '8px 12px'
+                        }">
+                            <div class="type-title-sm" :style="{ color: getContrastColor(level.mapPackColor) }">Map Pack</div>
+                            <p :style="{ color: getContrastColor(level.mapPackColor), fontWeight: 'bold' }">{{ level.mapPackPrettyName }}</p>
+                        </li>
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
@@ -125,13 +133,16 @@ export default {
             if (!this.level.showcase) {
                 return embed(this.level.verification);
             }
-
+    
             return embed(
                 this.toggledShowcase
                     ? this.level.showcase
                     : this.level.verification
             );
         },
+        mapPackStyle() {
+            return this.level.mapPackColor ? { color: this.level.mapPackColor } : {};
+        }
     },
     async mounted() {
         // Hide loading spinner
@@ -161,5 +172,25 @@ export default {
     methods: {
         embed,
         score,
+        getContrastColor(hexColor) {
+            if (!hexColor) return 'var(--color-on-background)';
+            
+            hexColor = hexColor.replace('#', '');
+            
+            let r, g, b;
+            if (hexColor.length === 3) {
+                r = parseInt(hexColor[0] + hexColor[0], 16);
+                g = parseInt(hexColor[1] + hexColor[1], 16);
+                b = parseInt(hexColor[2] + hexColor[2], 16);
+            } else {
+                r = parseInt(hexColor.substr(0, 2), 16);
+                g = parseInt(hexColor.substr(2, 2), 16);
+                b = parseInt(hexColor.substr(4, 2), 16);
+            }
+            
+            const brightness = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+            
+            return brightness > 0.5 ? '#000000' : '#FFFFFF';
+        }
     },
 };
