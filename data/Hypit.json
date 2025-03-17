@@ -3,17 +3,11 @@
     "name": "Hypit",
     "author": "Vexon",
     "creators": [],
-    "verifier": "Kyy",
-    "verification": "https://www.youtube.com/watch?v=mQNW6gmIN44",
+    "verifier": "flo.wer",
+    "verification": "https://www.youtube.com/watch?v=3aArhTZH7M0",
     "percentToQualify": "68",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "flo.wer",
-            "link": "https://www.youtube.com/watch?v=3aArhTZH7M0",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "Slopes",
             "link": "https://youtu.be/vXxC0adi4-M",
