@@ -3,17 +3,11 @@
     "name": "Bonfire",
     "author": "BLCKD",
     "creators": ["BLCKD"],
-    "verifier": "Kyy",
-    "verification": "https://www.youtube.com/watch?v=Rnpj1-C--kI",
+    "verifier": "MaybeSplash",
+    "verification": "https://youtu.be/0OEV1D-Hrr4",
     "percentToQualify": "52",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "MaybeSplash",
-            "link": "https://youtu.be/0OEV1D-Hrr4",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "Toasty",
             "link": "https://www.youtube.com/watch?v=GKvF9MhX2Ag",
