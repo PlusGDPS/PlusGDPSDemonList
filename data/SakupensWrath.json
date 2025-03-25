@@ -43,6 +43,12 @@
             "link": "https://www.twitch.tv/solafiron/clip/SavoryVastChowderPipeHype-S22SCtx3wh71uFyx",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "flo.wer",
+            "link": "https://www.youtube.com/watch?v=G1m0y55e3Zs",
+            "percent": 100,
+            "hz": 360
         }
-    ]
+]
 }
