@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=2e9eNyulLBA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "LFoxer",
+            "link": "https://www.youtube.com/shorts/gdE5z3c5ouM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
