@@ -1,0 +1,18 @@
+{
+    "id": 3141592653,
+    "name": "You Forgor",
+    "author": "flo.wer",
+    "creators": ["Kendrick Lamar", "Playboi Carti", "Kanye West"],
+    "verifier": "SECRET🤫",
+    "verification": "https://youtu.be/A0zo0Yo4P4g",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DIDDY",
+            "link": "https://youtu.be/vY0qG6zcQ38?si=7PfT6FBIDa_LQPBj",
+            "percent": 100,
+            "hz": 1
+        }
+    ]
+}
