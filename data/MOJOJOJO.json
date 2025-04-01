@@ -1,0 +1,18 @@
+{
+    "id": 808040,
+    "name": "MOJO JOJO",
+    "author": "SWAMP IZZO",
+    "creators": ["PLAYBOI CARTI", "KENDRICK LAMAR", "SWAMP IZZO"],
+    "verifier": "PLAYBOI CARTI",
+    "verification": "https://youtu.be/w5U7hemoc28?si=UTU2FJjMNp6ALkhO",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "KENDRICK LAMAR",
+            "link": "https://youtu.be/w5U7hemoc28?si=UTU2FJjMNp6ALkhO",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
