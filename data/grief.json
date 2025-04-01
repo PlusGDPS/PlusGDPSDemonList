@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Boofer",
+            "link": "https://www.youtube.com/watch?v=5gx07ZNiuJY",
+            "percent": 80,
+            "fps": 240
+        }
     ]
 }
