@@ -1,0 +1,18 @@
+{
+    "id": 0010011,
+    "name": "GOOD CREDIT",
+    "author": "Playboi Carti",
+    "creators": ["Swamp Izzo", "Kendrick Lamar", "Playboi Carti"],
+    "verifier": "Evil Cold",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "KANYE WEST",
+            "link": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+            "percent": 100,
+            "hz": 530
+        }
+    ]
+}
