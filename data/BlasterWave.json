@@ -8,7 +8,13 @@
     "percentToQualify": 54,
     "password": "Free To Copy",
     "records": [
-         {
+        {
+            "user": "Liam",
+            "link": "www.youtube.com/watch?v=L1RjmJ4Kfq0&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "GreenCat",
             "link": "https://youtu.be/YfAXdVSAf28?si=WPRcJ42tJ1kBh4bi",
             "percent": 88,
