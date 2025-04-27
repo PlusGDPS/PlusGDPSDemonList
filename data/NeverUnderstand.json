@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "CappyWave",
+            "link": "https://www.youtube.com/watch?v=7n6OrGjZ768",
+            "percent": 100,
+            "fps": 240
+        } 
     ]
 }
