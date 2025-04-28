@@ -5,7 +5,20 @@ export function getYoutubeIdFromUrl(url) {
     )?.[1] ?? '';
 }
 
+export function isMedalUrl(url) {
+    return url.includes('medal.tv');
+}
+
 export function embed(video) {
+    
+    if (isMedalUrl(video)) {
+        const clipId = video.match(/\/clips\/([^?&#]+)/)?.[1];
+        if (clipId) {
+            return `https://medal.tv/games/requested/clip/${clipId}`;
+        }
+        return video; 
+    }
+
     return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}`;
 }
 
