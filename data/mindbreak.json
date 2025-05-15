@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {    
+            "user": "bazzie",
+            "link": "https://drive.google.com/file/d/1qto11jI4Wa4M4N1tBIu7XzNGd2qryaae/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
