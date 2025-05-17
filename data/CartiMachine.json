@@ -8,5 +8,11 @@
     "percentToQualify": "46",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Spacewonder6",
+            "link": "https://www.youtube.com/watch?v=MFmkIMF36j0",
+            "percent": 100,
+            "fps": 240
+        } 
     ]
 }
