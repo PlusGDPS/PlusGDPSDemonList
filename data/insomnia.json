@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "mapPack": "RbgTrilogy",
     "records": [
+        {
+            "user": "Pygmy",
+            "link": "https://www.youtube.com/watch?v=d36InsqYkhM",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
