@@ -4,21 +4,5 @@
         "role": "owner",
         "name": "flo.wer",
         "link": "https://youtube.com/@lacley?si=CfktcFGHOab9CdAd"
-    },
-    {
-        "role": "admin",
-        "name": "Fizzy",
-        "link": "https://www.youtube.com/@frizbeey"
-    },
-    {
-        "role": "helper",
-        "name": "Toasty",
-        "link": "https://www.youtube.com/channel/UCttP-seMHLmeMMoNQZ1za8g"
-    },
-    {
-        "role": "dev",
-        "name": "zChar",
-        "link": "https://www.youtube.com/channel/UCmW5SCf3YjysmI_N0JU0Y7Q"
     }
-
 ]
