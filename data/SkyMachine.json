@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=D5usgatP8Gc",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "bazzie",
+            "link": "https://files.catbox.moe/zrn109.mp4",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
