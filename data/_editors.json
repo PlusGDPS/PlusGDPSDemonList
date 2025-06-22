@@ -1,5 +1,10 @@
 [    
     {
+        "role": "owner",
+        "name": "flo.wer",
+        "link": "https://youtube.com/@lacley?si=CfktcFGHOab9CdAd"
+    },
+    {
          "role": "dev",
          "name": "zChar",
          "link": "https://www.youtube.com/channel/UCmW5SCf3YjysmI_N0JU0Y7Q"
