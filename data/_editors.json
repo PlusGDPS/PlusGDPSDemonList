@@ -5,6 +5,11 @@
         "link": "https://youtube.com/@lacley?si=CfktcFGHOab9CdAd"
     },
     {
+        "role": "admin",
+        "name": "MrToasty",
+        "link": "https://www.youtube.com/@ToastyBois"
+    },
+    {
          "role": "dev",
          "name": "zChar",
          "link": "https://www.youtube.com/channel/UCmW5SCf3YjysmI_N0JU0Y7Q"
