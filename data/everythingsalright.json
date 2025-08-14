@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "bazzie",
+            "link": "https://files.catbox.moe/0swww5.mp4",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
