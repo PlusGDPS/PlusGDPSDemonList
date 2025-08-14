@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=D5usgatP8Gc",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "stillspring",
+            "link": "https://www.youtube.com/watch?v=Ifyk3Ot3RiU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
