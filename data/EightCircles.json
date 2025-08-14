@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=GTJHb1tfSOQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Esta",
+            "link": "https://www.youtube.com/watch?v=9ocHn7d58dM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
