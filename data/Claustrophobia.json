@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=4P5ayGJEw7s&lc=UgxfrOYx1lUZ7QPFzKt4AaABAg",
     "percentToQualify": "46",
     "mapPack": "19RemakePack",
-    "records": [ ]
+    "records": [
+        {
+            "user": "lapsdw",
+            "link": "https://youtu.be/KT0SDBKjGH4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
